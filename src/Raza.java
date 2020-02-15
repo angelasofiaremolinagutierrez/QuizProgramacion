@@ -1,0 +1,3 @@
+public enum Raza {
+    DALEK,WEEPING_ANGEL,TIMELORD,HUMANO
+}
